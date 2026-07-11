@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: GOAL LIVE",
+  "description": "High-end real-time football live scores with cinematic crowd cheers and immersive dynamic goal animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
